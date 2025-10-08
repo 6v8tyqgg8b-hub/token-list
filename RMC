@@ -1,0 +1,14 @@
+{
+  "chainId": 101,
+  "address": "YOUR_TOKEN_MINT_ADDRESS",
+  "symbol": "RMC",
+  "name": "Richard Mille Coin",
+  "decimals": 9,
+  "logoURI": "https://YOUR_LOGO_URL.png",
+  "tags": ["community", "meme"],
+  "extensions": {
+    "twitter": "https://twitter.com/YourToken",
+    "telegram": "https://t.me/YourTokenGroup",
+    "website": "https://yourtoken.site"
+  }
+}
